@@ -28,6 +28,7 @@
 <br/>
 <br/>
 
+> ## 🪄Language🪄
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmlwn7245&layout=compact&theme=dark)
 <!--
 **gmlwn7245/gmlwn7245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
