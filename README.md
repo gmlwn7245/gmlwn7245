@@ -23,6 +23,8 @@
 
 > ## 🏅BOJ🏅   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gmlwn7245)](https://solved.ac/gmlwn7245)
+<br/>
+### LeetCode : [Profile](https://leetcode.com/gmlwn7245/)
 
 <br/>
 <br/>
